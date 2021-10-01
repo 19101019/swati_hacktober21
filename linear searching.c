@@ -15,7 +15,7 @@ int main()
     {
         if(e==a[i])
         {
-            printf("\n Element is found.");
+            printf("\nthe Element is found.");
             printf("\n position of element in array is : %d",i+1);
             break;
         }
