@@ -34,6 +34,6 @@ int main()
     {
         printf("%d ",a[k]);
     }
-    printf("\n\n")
+    printf("\n\n");
     return 0;
 }
