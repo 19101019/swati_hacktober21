@@ -24,6 +24,6 @@ int main()
             printf("\n Element not found in the array.");
         }
     }
-    printf("\n\n")
+    printf("\n\n");
     return 0;
 }
