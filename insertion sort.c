@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+main()
 {
     int a[100],i,n;
     printf("\n Enter no. of elements : ");
@@ -29,5 +29,5 @@ int main()
         printf("%d ",a[i]);
     }
     printf("\n\n");
-    return 0;
+    
 }
